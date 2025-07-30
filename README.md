@@ -12,10 +12,10 @@
 - Packet Analysis · Network Monitoring · Log Analysis  
 
 ## 📁 My Projects
-- 🔍[Secure WAN simulation with ACLs] (https://github.com/Yaaya23/Secure-WAN-Simulation-with-ACLs-in-Cisco-Packet-Tracer)(#) 
+- 🔍[Secure WAN simulation with ACLs] (https://github.com/Yaaya23/Secure-WAN-Simulation-with-ACLs-in-Cisco-Packet-Tracer) (#) 
 
 ## 📫 Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/rashida-yakubu44?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](#)
+- LinkedIn: [https://www.linkedin.com/in/rashida-yakubu44?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app] (#)
 - GitHub: [github.com/rashidayakubu](https://github.com/rashidayakubu)
 
 ---
