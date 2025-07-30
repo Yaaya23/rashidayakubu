@@ -12,8 +12,7 @@
 - Packet Analysis · Network Monitoring · Log Analysis  
 
 ## 📁 My Projects
-- 🔍 [Secure WAN Simulation with ACLs in Cisco Packet Tracer](#)
-- 🧠 [Traffic Analysis with Wireshark](#) 
+- 🔍 [Secure WAN Simulation with ACLs in Cisco Packet Tracer](#) 
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/rashida-yakubu44?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](#)
